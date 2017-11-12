@@ -1,0 +1,32 @@
+{
+  "name": "ng4-mean-stack",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samaad/Ng4-mean-stack.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular",
+    "4",
+    "application"
+  ],
+  "author": "Shoaib Doulatabad",
+  "bugs": {
+    "url": "https://github.com/samaad/Ng4-mean-stack.git/issues"
+  },
+  "homepage": "https://github.com/samaad/Ng4-mean-stack.git#readme",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.1"
+  },
+  "devDependencies": {
+  }
+}
